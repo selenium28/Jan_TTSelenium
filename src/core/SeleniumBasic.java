@@ -31,4 +31,5 @@ public class SeleniumBasic {
 
 // https://demo.guru99.com/test/newtours/register.php
 // https://demo.guru99.com/test/delete_customer.php
-// 
+// https://jqueryui.com/droppable/
+// https://demo.guru99.com/test/upload/
